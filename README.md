@@ -98,7 +98,7 @@ This repo contains the following files, all required to carry out this assignmen
 
 ## ❖・Due・❖
 
-Thursday, 9 October 2025, at 5:00 PM. ***Note*: Per the syllabus, NO late submissions will be accepted**
+Tuesday, 14 October 2025, at 8:00 PM. ***Note*: Per the syllabus, **No** late submissions will be accepted**
 
 ---
 
