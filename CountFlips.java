@@ -1,7 +1,4 @@
 public class CountFlips {
-//-----------------------------------------------------------
-// Creates a Coin object, flips it, and prints the results.
-//-----------------------------------------------------------
   public static void main(String[] args) {
     final int FLIPS = 100;
     int headsCount = 0;
